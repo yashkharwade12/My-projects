@@ -24,3 +24,13 @@
 - 🔄 Password Modification — Allows the user/admin to change the password and save the updated password in EEPROM.
 - 📺 LCD Interface — Displays characters, strings, integers, and keypad-related information.
 
+# 🔧 Hardware Components Used
+- 🧠 LPC2148 — Main ARM7 microcontroller
+- 👆 Resistive Touch Screen Module — Touch-based user interface for device control
+- 📺 16×2 LCD — Displays system information and user inputs
+- 🔢 4×4 Matrix Keypad — Used for password entry and modification
+- 💡 Device 1 (LED1) — Represents/controls the first device
+- 💡 Device 2 (LED2) — Represents/controls the second device
+- 🔊 Buzzer — Provides an emergency alert
+- 💾 AT25LC512 EEPROM — Stores and retrieves the system password
+

@@ -1,5 +1,5 @@
 # My-projects
-Touch-Based Device Control System for Bedridden Patients
+ # Touch-Based Device Control System for Bedridden Patients
 
 - Designed and developed a password-protected touch-based embedded system using LPC2148 to help bedridden patients independently control essential electrical devices.
 - Implemented a resistive touchscreen interface with predefined touch positions for controlling Device 1 and Device 2 (ON/OFF).
@@ -8,7 +8,7 @@ Touch-Based Device Control System for Bedridden Patients
 - Developed the application using Embedded C, with Keil C and Flash Magic for programming and hardware implementation.
 
 
-Objectives
+ # Objectives
 Help bedridden patients operate household appliances independently.
 Provide a simple and user-friendly touch-based interface.
 Ensure secure access through password authentication.

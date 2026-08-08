@@ -16,11 +16,11 @@
 - Allow password updates without reprogramming the controller.
 
 # ⭐ Key Features
-🔐 Password Authentication — Secure access using keypad-based password verification.
-👆 Touch-Based Control — Resistive touchscreen enables easy device control with minimal physical effort.
-💡 Dual Device Control — Controls two devices (ON/OFF) through predefined touchscreen positions.
-💾 EEPROM Password Storage — Stores and retrieves the password using AT25LC512 EEPROM.
-🚨 Emergency Alert — Integrated buzzer provides an emergency alert mechanism.
-🔄 Password Modification — Allows the user/admin to change the password and save the updated password in EEPROM.
-📺 LCD Interface — Displays characters, strings, integers, and keypad-related information.
+- 🔐 Password Authentication — Secure access using keypad-based password verification.
+- 👆 Touch-Based Control — Resistive touchscreen enables easy device control with minimal physical effort.
+- 💡 Dual Device Control — Controls two devices (ON/OFF) through predefined touchscreen positions.
+- 💾 EEPROM Password Storage — Stores and retrieves the password using AT25LC512 EEPROM.
+- 🚨 Emergency Alert — Integrated buzzer provides an emergency alert mechanism.
+- 🔄 Password Modification — Allows the user/admin to change the password and save the updated password in EEPROM.
+- 📺 LCD Interface — Displays characters, strings, integers, and keypad-related information.
 

@@ -9,9 +9,9 @@
 
 
  # Objectives
-Help bedridden patients operate household appliances independently.
-Provide a simple and user-friendly touch-based interface.
-Ensure secure access through password authentication.
-Store passwords permanently using non-volatile memory.
-Allow password updates without reprogramming the controller.
+- Help bedridden patients operate household appliances independently.
+- Provide a simple and user-friendly touch-based interface.
+- Ensure secure access through password authentication.
+- Store passwords permanently using non-volatile memory.
+- Allow password updates without reprogramming the controller.
 

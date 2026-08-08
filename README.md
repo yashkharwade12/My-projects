@@ -34,3 +34,9 @@
 - 🔊 Buzzer — Provides an emergency alert
 - 💾 AT25LC512 EEPROM — Stores and retrieves the system password
 
+# 💻 Software Tools Used
+
+- 💻 Embedded C — Programming language used to develop the embedded application.
+- 🛠️ Keil C Compiler — Used for writing, compiling, and building the Embedded C program.
+- ⚡ Flash Magic — Used for programming/flashing the firmware into the LPC2148 microcontroller.
+
